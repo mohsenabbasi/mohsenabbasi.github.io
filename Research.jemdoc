@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU.txt}{Research.html}
+++
+{{
+<div id="toptitle">
+<h1>Research</h1>
+</div>
+}}
+
+== Online Unit Clustering and Covering Problem
+In the unit clustering problem, given a set of points on the plane, the goal is to group these points into minimum number of clusters of unit size. 
+In the online version, the points arrive one by one and upon each point's arrival, it must be assigned to some cluster.
+Another related problem is online unit covering in which moving clusters after opening them is not allowed. 
+In this project, the online clustering and online unit covering problems are studied in two dimensional Euclidean space.
+- *publication*: Online Unit Clustering In Two Dimensions, Mohsen Abbasi, Hamid Zarrabi-Zadeh, AmirMahdi
+Ahmadinejad \[to be submitted\] ([http://ce.sharif.edu/~mabbasi/unit_clustering.pdf Download])
+
+
+== Direction and Range Assignment for Directional Antennae in Wireless Networks
+In recent years, significant interest has been attracted towards using directional antennae
+in wireless and sensor networks due to it's decreased energy consumption, increased security
+and decreased radio wave overlapping. The problem is not polynomially solvable
+in general and effort has been made in recent years to present approximation algorithms to
+solve this problem. In this project, the problem is studied in one dimension.
+- *publication*: Direction and Range Assignment for Directional Antennae in Wireless Networks, Mehdi KharatiZadeh, Mohsen Abbasi, 
+Hamid Zarrabi-Zadeh \[to be submitted\] ([http://ce.sharif.edu/~mabbasi/directed_antennas.pdf Download])
+
+== Mechanism Design for Single-Service Peer to Peer Networks
+Peer to peer systems support many diverse applications such as file sharing, distributed computation, multimedia streaming and etc 
+yet they all share a basic feature; The foundation of peer-to-peer systems is based on the contribution of resources from peers and 
+such contribution plays a significant role in the efficiency and performance of the system. \n
+Much of the existing designs in peer to peer networking assume obedient users which follow prescribed protocols without deviation 
+yet users of these networks usually are automated rational agents who try to maximize their utility which leads to a tendency to freeride.\n
+In this project, in order to overcome the problems described before in such systems, a model of a single service peer to peer network is 
+presented which considers such system as a step by step prisoners' dilemma game. Also, some simulations were implemented which their results 
+show altruism behavior among the agents as predicted in model analysis.
+- *publication*: Mechanism Design for Single-Service Peer to Peer Networks, Mohsen Abbasi, Morteza AnaLoui
+([http://ce.sharif.edu/~mabbasi/mechanism_design.pdf Download])
+ 

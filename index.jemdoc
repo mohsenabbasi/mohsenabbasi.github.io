@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU.txt}{index.html}
+++
+{{
+<div id="toptitle">
+<h1>Mohsen Abbasi</h1>
+</div>
+}}
+~~~
+{}{img_left}{mohsenrefined.PNG}{}{220px}{250px}
+I received M.Sc. in Computer Engineering (Algorithms and Computation) in 2014 
+from Sharif University of Technology. I was fortunate to be advised by 
+[http://sharif.edu/~zarrabi/ Dr. Hamid Zarrabi-Zadeh]. I received B.Sc. degree in Software Engineering in 
+2012 at the School of Computer Engineering,  Iran University of Science and Technology.\n
+You can take a look at my CV [http://ce.sharif.edu/~mabbasi/mohsen_cv.pdf here]. 
+~~~
+
+== Contact
+[http://ce.sharif.edu/ Department of Computer Engineering\n
+Sharif University of Technology\n]
+Azadi Avenue\n
+Tehran, Iran.\n
+
+Email: \n
+[mabbasi@ce.sharif.edu]\n
+[mohsen.h.abbasi@gmail.com] \n
+{{<br />}}
+Phone: +98 (936) 542 9650
+
+== Research Interests
+- Randomized and Approximation Algorithms
+- Computational Geometry
+- Algorithmic Game Theory and Mechanism Design
+- Online Algorithms
+- Databases
+- Computer Networks
+
+

@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU.txt}{Education.html}
+++
+{{
+<div id="toptitle">
+<h1>Education</h1>
+</div>
+}}
+
+== Master of Science (2011-2013)
+~~~
+{}{img_left}{sharif.PNG}{}{120px}{120px}
+- [http://sharif.edu/ Sharif University of Technology], [http://ce.sharif.edu Department of Computer Engineering] \n Tehran, Iran.
+- Majored in Computer Engineering, Algorithms and Computations.
+- Supervisor
+: {} [http://sharif.edu/~zarrabi/ Dr. Hamid Zarrabi-Zadeh]
+- Thesis title
+: {} Online Unit Clustering in Two Dimensions
+~~~
+
+== Bachelor of Science (2006-2011)
+~~~
+{}{img_left}{IUST.PNG}{alt text}{120px}{120px}
+- [http://iust.ac.ir/ Iran University of Science and Technology], [http://ce.iust.ac.ir/ Department of Computer Engineering] \n Tehran, Iran.
+- Majored in Computer Engineering, Software Engineering.
+- Supervisor
+: {} [http://www.iust.ac.ir/page.php?slct_pg_id=1954&sid=14&slc_lang=En Dr. Morteza AnaLoui]
+: {} [http://www.iust.ac.ir/find.php?item=14.1960.1491.fa Dr. Mohammad R. Kangavari]
+- Thesis title
+: {} Algorithmic Mechanism Design for Peer to Peer Networks
+~~~
+
+== High school Diploma (2003-2006)
+~~~
+{}{img_left}{sampad.PNG}{alt text}{120px}{120px}
+- [http://www.nodet.net/ National Organization for Development of Exceptional Talents]
+- Mathematics and Physics Diploma
+~~~

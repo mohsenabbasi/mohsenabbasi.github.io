@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU.txt}{Projects.html}
+++
+{{
+<div id="toptitle">
+<h1>Selected Projects</h1>
+</div>
+}}
+
+== Work
+=== Kala
+Designed the Database used for a Web-based automation system in a large distributing Corporation. Participated in Developing the back-end of this system.
+
+=== Nasim
+Participated in development of a Mobile Messaging Application.
+
+=== TweetWrapper (ongoing project)
+A system for customizing tweets' priorities in Twitter.
+
+== Courses
+- Web-based Social Network named Ghahvekhoone (Software Engineering)
+- Hospital automation system (Databases)
+- Draw Diagram Tool(Programming)
+- DHCP server (Computer Networks)
+- 2D game using MS XNA framework (AI)
+- Byte-code generator compiler for a simple XML-like language (Compilers)
+- Implementing Red-Black, AVL and B+ trees (Algorithms)
+ 
